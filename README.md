@@ -23,7 +23,7 @@
 
 ---
 
- ##Visitor hit :![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
+## Visitor hit :![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
 
 ### Contact with me 📝
 <a href="https://discord.gg/9WFM2w2cNx">
