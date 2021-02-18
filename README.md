@@ -26,8 +26,11 @@
 Visitor hit :![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
 
 ### Contact with me 📝
-<a href="https://elixxrade.me">
+<a href="https://discord.gg/9WFM2w2cNx">
 <img align="left" alt="Webiste" height="30px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504896.svg" />
+</a>
+<a href="https://elixxrade.me">
+<img align="left" alt="Webiste" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/1450/1450332.svg" />
 </a>
 <br />
 
