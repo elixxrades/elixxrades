@@ -32,6 +32,7 @@ Visitor hit :![Visitor Count](https://profile-counter.glitch.me/dude030/count.sv
 <a href="https://elixxrade.me">
 <img align="left" alt="Webiste" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/1450/1450332.svg?token=exp=1613681732~hmac=68dc93b1a26c0eac2b5234c29a7291fd" />
 </a>
+New links soon ...
 <br />
 
 ---
@@ -54,8 +55,10 @@ Visitor hit :![Visitor Count](https://profile-counter.glitch.me/dude030/count.sv
 
 <br/>
 
+---
 
-<img width="878" alt="צילום מסך 2020-10-25 ב-14 09 09" src="https://user-images.githubusercontent.com/38000606/97106909-02710480-16cd-11eb-9ad6-f5d64e03eb5a.png">
-
-
-
+### Discord servers 🛠 
+[Redoya Internet and Information Services](https://discord.gg/N9cHzYM)
+[Odies Development](https://discord.gg/ZqSftBrBBU)
+[My private server](https://discord.gg/9WFM2w2cNx)
+<br/>
