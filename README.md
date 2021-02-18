@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=racheliver&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
 
 ### Contact with me 📝
 
