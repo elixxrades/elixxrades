@@ -58,7 +58,7 @@ New links soon ...
 ---
 
 ### Discord servers 🛠 
-[Redoya Internet and Information Services](https://discord.gg/N9cHzYM)
-[Odies Development](https://discord.gg/ZqSftBrBBU)
-[My private server](https://discord.gg/9WFM2w2cNx)
+![Redoya Internet and Information Services](https://discord.gg/N9cHzYM)
+![Odies Development](https://discord.gg/ZqSftBrBBU)
+![My private server](https://discord.gg/9WFM2w2cNx)
 <br/>
