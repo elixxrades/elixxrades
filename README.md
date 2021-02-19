@@ -8,11 +8,12 @@
 
 ### I'm [Ömer faruk aras](https://elixxrade.me) Web and discord developer.
 
-- 👨‍💻 Currently working on web development technologies JavaScript, React, CSS etc.
+- 👨‍💻 Currently working on web development technologies JavaScript, Ejs, CSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
-
+- ⚡ Fun fact: I love to play valorant and cs:go 🎱.
+- 😉 I'm making advanced discord bots.
+- 
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
