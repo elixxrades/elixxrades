@@ -20,21 +20,13 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qjgyrj7sicdwz4ecaabcdwliii&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31qjgyrj7sicdwz4ecaabcdwliii&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0uhvfujhjiebwiassu0z3ge1l&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=0uhvfujhjiebwiassu0z3ge1l&redirect=true)
 
 ---
 
-## Visitor hit :![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
+## Visitor hit : ![Visitor Count](https://profile-counter.glitch.me/dude030/count.svg)
 
-### Contact with me 📝
-<a href="https://discord.gg/9WFM2w2cNx">
-<img align="left" alt="Webiste" height="30px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504896.svg" />
-</a>
-<a href="https://elixxrade.me">
-<img align="left" alt="Webiste" height="30px" src="https://www.flaticon.com/svg/vstatic/svg/1450/1450332.svg?token=exp=1613681732~hmac=68dc93b1a26c0eac2b5234c29a7291fd" />
-</a>
-New links soon ...
-<br />
+### Contact with me [Mail](mailto:root@elixxrades.xyz)
 
 ---
 
