@@ -6,9 +6,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm [Ömer faruk aras](https://elixxrade.me) Web and discord developer.
+### I'm [Ömer faruk aras](https://elixxrades.xyz) Web and discord developer.
 
-- 👨‍💻 Currently working on web development technologies JavaScript, Ejs, CSS etc.
+- 👨‍💻 Currently working on web development technologies NodeJs, Ruby, Ejs, CSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play valorant and cs:go 🎱.
@@ -53,6 +53,7 @@ New links soon ...
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 <br/>
 
@@ -60,6 +61,5 @@ New links soon ...
 
 ### Discord servers 🛠 
 [Redoya Internet and Information Services](https://discord.gg/N9cHzYM)<br/>
-[Odies Development](https://discord.gg/ZqSftBrBBU)<br/>
 [My private server](https://discord.gg/9WFM2w2cNx)
 <br/>
