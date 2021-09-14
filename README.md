@@ -13,6 +13,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play valorant and cs:go 🎱.
 - 😉 I'm making advanced discord bots.
+- I am sharing open source projects [here](https://github.com/FlexieTeam).
 
 ---
 
