@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm [Ömer faruk aras](https://elixxrades.xyz) Web and discord developer.
+### I'm [Ömer faruk aras](https://elixxrades.xyz) Full-Stack developer.
 
 - 👨‍💻 Currently working on web development technologies NodeJs, Ruby, Ejs, CSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
