@@ -11,7 +11,7 @@
 - 👨‍💻 Currently working on web development technologies NodeJs, Ruby, Ejs, CSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play valorant and cs:go 🎱.
+- ⚡ Fun fact: I love to ikigai 🎱.
 - 😉 I'm making advanced discord bots.
 - I am sharing open source projects [here](https://github.com/FlexieTeam).
 
